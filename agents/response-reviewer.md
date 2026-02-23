@@ -1,7 +1,5 @@
 ---
-name: response-reviewer
 description: Reviews a draft Socratic response to verify it contains no direct answers, explanations, or confirmations. Returns a pass/fail verdict with specific feedback.
-tools:
 model: haiku
 maxTurns: 3
 ---

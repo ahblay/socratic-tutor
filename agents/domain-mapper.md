@@ -1,7 +1,6 @@
 ---
-name: domain-mapper
 description: Analyzes source material at session start to produce a structured map of the knowledge domain and skills a student must develop to genuinely understand it. Used by the orchestrator to sequence questions and design checkpoints.
-tools: Read
+tools: ["Read"]
 model: sonnet
 maxTurns: 5
 ---

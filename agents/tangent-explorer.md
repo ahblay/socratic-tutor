@@ -1,7 +1,6 @@
 ---
-name: tangent-explorer
 description: Handles a student's tangent line of questioning through Socratic dialogue. Explores the tangent topic fully, then returns a compact summary of what was discovered so the main lesson can resume with that context.
-tools: Read
+tools: ["Read"]
 model: sonnet
 maxTurns: 30
 ---

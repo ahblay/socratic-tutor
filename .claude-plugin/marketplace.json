@@ -1,0 +1,15 @@
+{
+  "name": "socratic-tutor",
+  "description": "A Socratic tutoring plugin that guides students to genuine understanding through questioning, never giving answers directly.",
+  "owner": { "name": "Abel" },
+  "plugins": [
+    {
+      "name": "socratic-tutor",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ahblay/socratic-tutor.git"
+      },
+      "description": "Guides students to deeper understanding through Socratic questioning — never giving answers, only asking questions that reveal what the student already knows."
+    }
+  ]
+}

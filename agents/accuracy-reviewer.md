@@ -1,7 +1,6 @@
 ---
-name: accuracy-reviewer
 description: Reviews the conversation to identify factual misunderstandings that have been allowed to stand unchallenged, and evaluates the student's emerging learning style so the teacher can adapt questioning strategy.
-tools: Read
+tools: ["Read"]
 model: sonnet
 maxTurns: 5
 ---
