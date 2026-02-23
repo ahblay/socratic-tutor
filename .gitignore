@@ -1,0 +1,9 @@
+# Session state — generated at runtime, should not be committed
+.socratic-session.json
+
+# Drop directory — contents are user-specific, only keep the directory itself
+socratic-material/*
+!socratic-material/.gitkeep
+
+# macOS
+.DS_Store

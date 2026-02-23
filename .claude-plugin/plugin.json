@@ -1,0 +1,7 @@
+{
+  "name": "socratic-tutor",
+  "description": "Guides students to deeper understanding through Socratic questioning — never giving answers, only asking questions that reveal what the student already knows.",
+  "version": "1.0.0",
+  "author": { "name": "Abel" },
+  "license": "MIT"
+}
