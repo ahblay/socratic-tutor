@@ -14,7 +14,7 @@ A Claude Code plugin that guides students to genuine understanding using the Soc
 ## Installation
 
 ```bash
-/plugin install https://github.com/<your-username>/socratic-tutor
+/plugin install https://github.com/ahblay/socratic-tutor
 ```
 
 ## Usage
